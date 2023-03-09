@@ -1,0 +1,24 @@
+const String kDiscover = "Discover";
+const String kBestPopularMAndS = "BEST POPULAR MOVIES AND SERIALS";
+const String kCheckMovieShowtimes = "Check Movie\nShowtimes";
+const String kSeemore = "SEE MORE";
+const String kShowcases = "SHOWCASES";
+const String kMoreShowCases = "MORE SHOWCASES";
+const String kBestActors = "BEST ACTORS";
+const String kMoreActors = "MORE ACTORS";
+const String kStorylines = "Storylines";
+const String kPlayTrailer = "PLAY TRAILER";
+const String kRateMovie = "RATE MOVIE";
+const String kDuration = "2hr 10min";
+const String kAboutFlim = "About Flim";
+const String kOriginalTitle = "Original Title";
+const String kType = "Type";
+const String kProduction = "Production";
+const String kPremiere = "Premiere";
+const String kDescription = "Description";
+const String kCreators = "CREATORS";
+const String kActors = "ACTORS";
+const String kMoreCreators = "MORE CREATORS";
+const String kRelatedMovies = "Related Movies";
+const String kNullImage = 'https://pusat.edu.np/wp-content/uploads/2022/09/default-image.jpg';
+
